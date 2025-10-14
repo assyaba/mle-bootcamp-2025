@@ -13,3 +13,17 @@ Each week, I’ll add projects, notebooks, and notes as I progress through the r
 /week2/: notebooks on regression & metrics
 
 /projects/: complete ML projects
+
+## Goals (Week 1)
+- [x] Setup & first commit
+- [ ] Git workflow (branch → PR → merge)
+- [ ] Python refresh exercises
+
+## Repo Structure
+- `week1/` — fundamentals (hello, small scripts)
+- `projects/` — end-to-end ML/AI projects
+- `docs/` — notes, diagrams
+
+## Next Milestones
+- Add Python refresh notebook
+- Start Titanic mini-project (Week 2)
